@@ -1,1 +1,0 @@
-<!-- This repository contains a Java Maven project. See README and CONTRIBUTING for setup and contribution instructions. -->
